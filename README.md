@@ -51,7 +51,7 @@ Code/
 javac *.java
 java HtmlGuiApp
 
-Example Output:
+##Example Output:
 
 <!DOCTYPE html>
 <html>
@@ -67,12 +67,12 @@ Example Output:
 </body>
 </html>
 
-Future Improvements
+##Future Improvements
 
 File export functionality for HTML and CSS
 Drag-and-drop UI layout builder
 Support for JavaScript insertion
 Enhanced styling interface with color pickers and font selectors
 
-Contributing
+##Contributing
 Contributions are welcome. Fork the repository and open a pull request with your proposed changes.
