@@ -18,6 +18,7 @@ CodeWeaver is a Java-based desktop application that allows users to visually gen
 ## Project Structure
 
 Code/
+
 ├── HtmlGuiApp.java # Main application and GUI logic
 
 ├── HtmlElement.java # Base class for HTML components
